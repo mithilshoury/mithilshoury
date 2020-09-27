@@ -9,7 +9,7 @@
 
   a:hover {
 
-    color: yellow;/* set the text color to red here */
+    color: yellow;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
